@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🛡 Ari Robins
 
-<!--
-**s1lentIV/s1lentIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+I'm Ari, a highschool student looking to break into the fascinating world of cybersecurity by trying to build my own library of projects that reflect my interests in the field. All of these coding projects are built by me as a way to learn about vulnerabilities, networks, penetration, and security.
+</div>
+<br />
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://i.postimg.cc/mZ756stB/s1lentIV.png" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Projects
+### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
+### [🚪 Corbato Gen](https://github.com/s1lentIV/Corbato-Gen)
+### [👀 Peekaboo](https://github.com/s1lentIV/Peekaboo)
+### [💉 Periculum](https://github.com/s1lentIV/Periculum)
+### [💰 Warren](https://github.com/s1lentIV/Warren)
+
+## 🛠 Languages + Tools
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,cpp,vscode,obsidian,linux)](https://skillicons.dev)
