@@ -4,13 +4,13 @@
 
 # 🛡 s1lent IV
 
-I'm **Ari**, a highschool student looking to break into the fascinating world of cybersecurity by trying to build my own library of projects that reflect my interests in the field. All of these coding projects are built by me as a way to learn about vulnerabilities, networks, penetration, and security.
+I'm **Ari**, a high school student looking to break into the fascinating world of cybersecurity by trying to build my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
 <br />
 <br />
 
 **OS**: Windows 10 - Kali Linux - iOS
 
-**Hobbies**: PC Building - Gaming - Mountain Biking
+**Hobbies**: PC Building - Video Games - Mountain Biking - CTF
 
 ---
 
@@ -18,19 +18,19 @@ I'm **Ari**, a highschool student looking to break into the fascinating world of
 
 ### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
 
-A combination of both ancient + modern encryption in one simple script.
+A cryptography cipher that contains ancient + modern encryption.
 ### [🚪 Corbato Gen](https://github.com/s1lentIV/Corbato-Gen)
 
 A basic password generator.
 ### [👀 Peekaboo](https://github.com/s1lentIV/Peekaboo)
 
-A port scanner using socket, asyncio, and Nmap.
+A port scanner that uses socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
 
-An automatic pentester that attacks certain fields in a HTML page by delivering SQL and XSS payloads.
+An automatic pentester that delivers SQL + XSS payloads.
 ### [💰 Warren](https://github.com/s1lentIV/Warren)
 
-A stock market predictor that uses information from the S&P 500 index, machine learning provided by sklearn.metrics, and data from yfinance.
+A stock market predictor that uses the S&P 500 index + machine learning.
 ## ✒ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,vscode,obsidian,linux)](https://skillicons.dev)
