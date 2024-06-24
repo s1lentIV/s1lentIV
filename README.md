@@ -15,13 +15,22 @@ I'm **Ari**, a highschool student looking to break into the fascinating world of
 ---
 
 ## 💻 Projects
-Learning to Code collection:
+
 ### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
+
+A combination of both ancient + modern encryption in one simple script.
 ### [🚪 Corbato Gen](https://github.com/s1lentIV/Corbato-Gen)
+
+A basic password generator.
 ### [👀 Peekaboo](https://github.com/s1lentIV/Peekaboo)
+
+A port scanner using socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
+
+An automatic pentester that attacks certain fields in a HTML page by delivering SQL and XSS payloads.
 ### [💰 Warren](https://github.com/s1lentIV/Warren)
 
+A stock market predictor that uses information from the S&P 500 index, machine learning provided by sklearn.metrics, and data from yfinance.
 ## ✒ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,vscode,obsidian,linux)](https://skillicons.dev)
