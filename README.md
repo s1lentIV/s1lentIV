@@ -37,7 +37,7 @@ A stock market predictor that uses the S&P 500 index + machine learning.
 
 ## 💡 Tools I'm Interested In
 
-[![My Skills](https://skillicons.dev/icons?i=js,azure,bash,cpp,c,go,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,azure,sql,bash,cpp,c,go,java)](https://skillicons.dev)
 
 ## 📊 Stats
 <div align="center">
