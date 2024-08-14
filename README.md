@@ -27,7 +27,7 @@ A basic password generator.
 A port scanner that uses socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
 
-An automatic pentester that delivers SQL + XSS payloads.
+An automatic pentester that delivers SQL XSS payloads.
 ### [💰 Warren](https://github.com/s1lentIV/Warren)
 
 A stock market predictor that uses the S&P 500 index + machine learning.
