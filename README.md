@@ -8,13 +8,16 @@ I'm **Ari**, a student looking to break into the world of cybersecurity by tryin
 <br />
 <br />
 
-**OS**: Windows 10 - Kali Linux - iOS
+**OS**: macOS - Windows - Linux - iOS
 
-**Hobbies**: PC Building - Video Games - Mountain Biking - CTF
+**Hobbies**: Music Production - Mountain Biking - CTF
 
 ---
 
 ## 💻 Projects
+
+An automatic pentester that delivers SQL XSS payloads.
+### [💰 Warren](https://github.com/s1lentIV/Warren)
 
 ### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
 
@@ -26,9 +29,6 @@ A basic password generator.
 
 A port scanner that uses socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
-
-An automatic pentester that delivers SQL XSS payloads.
-### [💰 Warren](https://github.com/s1lentIV/Warren)
 
 A stock market predictor that uses the S&P 500 index + machine learning.
 ## ✒ Tools
