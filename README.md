@@ -4,7 +4,7 @@
 
 # 🛡 s1lent IV
 
-I'm **Ari**, a student looking to break into the world of cybersecurity by trying to build my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
+I'm **Ari**, a student looking to break into the world of cybersecurity by building my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
 <br />
 <br />
 
