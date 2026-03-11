@@ -16,10 +16,11 @@ I'm **Ari**, a student looking to break into the world of cybersecurity by tryin
 
 ## 💻 Projects
 
-An automatic pentester that delivers SQL XSS payloads.
 ### [💰 Warren](https://github.com/s1lentIV/Warren)
+A stock market predictor that uses the S&P 500 index + machine learning.
 
 ### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
+An automatic pentester that delivers SQL XSS payloads.
 
 A cryptography cipher that contains ancient + modern encryption.
 ### [🚪 Corbato Gen](https://github.com/s1lentIV/Corbato-Gen)
@@ -30,7 +31,8 @@ A basic password generator.
 A port scanner that uses socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
 
-A stock market predictor that uses the S&P 500 index + machine learning.
+---
+
 ## ✒ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,vscode,obsidian,linux)](https://skillicons.dev)
