@@ -1,10 +1,8 @@
-<div align="center">
-<img src="https://i.postimg.cc/g29BWy09/github-banner.gif" />
 </div>
 
 # 🛡 s1lentIV
 
-I'm **Ari**, a student looking to break into the world of cybersecurity by building my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
+Hi there, I'm **Ari**, a student looking to break into the world of cybersecurity and IT by building my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
 <br />
 <br />
 
