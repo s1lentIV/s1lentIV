@@ -1,7 +1,7 @@
 </div>
 
-# Ari Robins
-[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
+# 🦁 Ari Robins
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
 
 Hi there, I'm **Ari**, a student looking to break into the world of cybersecurity and IT by building my own library of projects that reflect my interests in the field. All of these coding projects are used by me as a way to learn about vulnerabilities, networks, penetration, and security.
 <br />
@@ -9,7 +9,7 @@ Hi there, I'm **Ari**, a student looking to break into the world of cybersecurit
 
 **OS**: macOS - Windows - Linux - iOS
 
-**Hobbies**: Music Production - Mountain Biking - CTF
+**Hobbies**: Electronics/Hardware - Music Production - Mountain Biking
 
 ---
 
