@@ -1,6 +1,6 @@
 </div>
 
-# Hi there, I'm Ari
+# 👋 Hi there, I'm Ari
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
 
 I’m a Business Admin student with a background in Cybersecurity & IT, dedicated to building a library of projects focused on network security, vulnerability research, and penetration testing.
