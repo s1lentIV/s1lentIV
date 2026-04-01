@@ -3,10 +3,7 @@
 # 👋 Hi there, I'm Ari
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
 
-I’m a Business Admin student with a background in Cybersecurity & IT, dedicated to building a library of projects focused on network security, vulnerability research, and penetration testing.
-<br />
-<br />
-Beyond coding, I'm focused on Agile-driven project management. I’m passionate about applying Scrum methodologies to technical workflows to keep projects efficient and scalable.
+I’m a Business Admin student with a background in Cybersecurity & IT, dedicated to building a library of projects focused on network security, vulnerability research, and penetration testing. Agile and Scrum inspired.
 <br />
 <br />
 
