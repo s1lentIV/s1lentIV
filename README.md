@@ -5,7 +5,9 @@
 
 I’m a Business Admin student with a background in Cybersecurity & IT, dedicated to building a library of projects focused on network security, vulnerability research, and penetration testing.
 <br />
+<br />
 Beyond coding, I'm focused on Agile-driven project management. I’m passionate about applying Scrum methodologies to technical workflows to keep projects efficient and scalable.
+<br />
 <br />
 
 **OS**: macOS - Windows - Linux - iOS
