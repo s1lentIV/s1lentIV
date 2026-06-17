@@ -40,12 +40,3 @@ An automatic pentester that delivers SQL XSS payloads.
 ## 💡 Tools I'm Interested In
 
 [![My Skills](https://skillicons.dev/icons?i=js,azure,swift,rust,bash,cpp,c,go,java)](https://skillicons.dev)
-
-## 📊 Stats
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=s1lentIV&theme=gotham&hide_border=true&background=000000&sideLabels=FFFFFF&dates=FFFFFF&stroke=6F6F6F&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lentIV&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=s1lentIV&hide_rank=true&bg_color=000000&text_color=FFFFFF&show_icons=true&hide_title=true&icon_color=FFFFFF&hide_border=true)
-</div>
