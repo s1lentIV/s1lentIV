@@ -1,42 +1,42 @@
 </div>
 
-# 👋 Hi there, I'm Ari
+# hi, i'm Ari!
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
 
-I’m a Business Admin student with a background in Cybersecurity & IT, dedicated to building a library of projects focused on network security, vulnerability research, and penetration testing.
+here you'll find my attempt at building a library of projects focused on network security, vulnerability research, and penetration testing. tabs > spaces
 <br />
 <br />
 
-**OS**: macOS - Windows - Linux - iOS
+**OS**: macOS - linux (debian) - iOS - windows
 
-**Hobbies**: Electronics/Hardware - Music Production - Mountain Biking
+**hobbies**: tinkering - music production - reading
 
 ---
 
-## 💻 Projects
+## 💻 projects
 
 ### [💰 Warren](https://github.com/s1lentIV/Warren)
 
-A stock market predictor that uses the S&P 500 index + machine learning.
+a stock market predictor that uses the S&P 500 index + machine learning.
 ### [🔐 Cipher Fusion](https://github.com/s1lentIV/Cipher-Fusion)
 
-A cryptography cipher that contains ancient + modern encryption.
+a cryptography cipher that contains ancient + modern encryption.
 ### [🚪 Corbato Gen](https://github.com/s1lentIV/Corbato-Gen)
 
-A basic password generator.
+a basic password generator.
 ### [👀 Peekaboo](https://github.com/s1lentIV/Peekaboo)
 
-A port scanner that uses socket, asyncio, and Nmap.
+a port scanner that uses socket, asyncio, and Nmap.
 ### [💉 Periculum](https://github.com/s1lentIV/Periculum)
 
-An automatic pentester that delivers SQL XSS payloads.
+an automatic pentester that delivers SQL XSS payloads.
 
 ---
 
-## ✒ Tools
+## ✒ tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,vscode,obsidian,linux)](https://skillicons.dev)
 
-## 💡 Tools I'm Interested In
+## 💡 tools i'm interested in
 
 [![My Skills](https://skillicons.dev/icons?i=js,azure,swift,rust,bash,cpp,c,go,java)](https://skillicons.dev)
