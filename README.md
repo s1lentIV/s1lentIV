@@ -3,7 +3,8 @@
 # hi, i'm ari!
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ari-robins)
 
-here you'll find my attempt at building a library of projects focused on network security, vulnerability research, and penetration testing. 
+here you'll find my attempt at building a library of projects focused on network security, vulnerability research, and penetration testing.
+<br />
 tabs > spaces
 <br />
 <br />
